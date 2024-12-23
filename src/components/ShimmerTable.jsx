@@ -4,32 +4,32 @@ const ShimmerTable = () => {
   const shimmerRow = (
     <tr className="border-b-2">
       <td className="py-2 px-4">
-        <div className="flex justify-center items-center">
+        <div className="flex justify-center">
           <div className="h-6 w-24 shimmer rounded-md"></div>
         </div>
       </td>
       <td className="py-2 px-4">
-        <div className="flex justify-center items-center">
+        <div className="flex justify-center">
           <div className="h-6 w-20 shimmer rounded-md"></div>
         </div>
       </td>
       <td className="py-2 px-4">
-        <div className="flex justify-center items-center">
+        <div className="flex justify-center">
           <div className="h-6 w-32 shimmer rounded-md"></div>
         </div>
       </td>
       <td className="py-2 px-4">
-        <div className="flex justify-center items-center">
+        <div className="flex justify-center">
           <div className="h-6 w-40 shimmer rounded-md"></div>
         </div>
       </td>
       <td className="py-2 px-4">
-        <div className="flex justify-center items-center">
+        <div className="flex justify-center">
           <div className="h-6 w-28 shimmer rounded-md"></div>
         </div>
       </td>
       <td className="py-2 px-4">
-        <div className="flex justify-center items-center">
+        <div className="flex justify-center">
           <div className="h-4 w-4 shimmer rounded-full"></div>
         </div>
       </td>
