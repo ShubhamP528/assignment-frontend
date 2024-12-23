@@ -33,7 +33,7 @@ const AddButton = () => {
   return (
     <button
       onClick={handleOnclick}
-      className="px-6 py-2 bg-gray-300 text-black rounded-lg font-semibold text-lg hover:bg-blue-600 focus:outline-none focus:ring-2 focus:ring-blue-400 transition"
+      className="px-6 py-2 bg-gray-300 text-black rounded-lg font-semibold text-lg focus:outline-none focus:ring-2  transition"
     >
       <span className="text-2xl mr-2">+</span> Add New Student
     </button>
